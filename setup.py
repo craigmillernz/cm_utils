@@ -7,5 +7,5 @@ setup(
    author='Craig Miller',
    author_email='c.miller@gns.cri.nz',
    packages=['cm_utils'],
-   install_requires=['matplotlib', 'numpy', 'scipy', 'shapefile'], #external packages as dependencies
+   install_requires=['matplotlib', 'numpy', 'scipy', 'pyshp'], #external packages as dependencies
 )
