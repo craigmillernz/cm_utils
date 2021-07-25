@@ -6,6 +6,6 @@ setup(
    description='Various little functions',
    author='Craig Miller',
    author_email='c.miller@gns.cri.nz',
-   packages=['cm_utils'],  #same as name
+   packages=['cm_utils'],
    install_requires=['matplotlib', 'numpy', 'scipy', 'shapefile'], #external packages as dependencies
 )
